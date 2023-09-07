@@ -1,0 +1,2 @@
+# CONTACT MANAGER 
+Contact Manager is a contact management application developed using Java and Swing, integrated with MySQL for efficient data management. This application is designed to provide users with a user-friendly graphical interface for seamless contact management. Whether you want to create new contacts, organize them in groups, or perform various operations like deletion, modification, or searching, Contact Manager has got you covered.
